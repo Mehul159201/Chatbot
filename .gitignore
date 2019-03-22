@@ -1,0 +1,14 @@
+node_modules/
+public/components
+.nyc_output
+.sass-cache
+.vscode/
+test.txt
+.idea/
+coverage/
+.DS_Store
+*.log
+sample
+testJson
+/.vs
+.vs/
