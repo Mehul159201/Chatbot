@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "botbuilder": "^3.16.0",
+    "botbuilder-azure": "^3.1.0",
+    "botbuilder-calling": "^3.0.1",
+    "botbuilder-location": "^2.0.0",
+    "email-validator": "^2.0.4",
+    "jsforce": "^1.9.1",
+    "luis": "^3.2.11",
+    "nforce": "^1.10.2",
+    "node": "^11.12.0",
+    "restify": "^8.1.1"
+  },
+  "name": "chatbottutorial",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/MehulNParmar/chatbots/branches/"
+  },
+  "author": "",
+  "license": "ISC"
+}

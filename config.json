@@ -1,0 +1,8 @@
+{
+    "SF_UNAME" : "parmarmehul11@cunning-hawk-itutd.com",
+    "SF_PWD" : "Trailhead@1234tV7bCqIi9g1SDvXlhCIZ0yiee",
+    "CLIENT_ID" : "3MVG9pe2TCoA1Pf6sdvheuMyw5Gt0wgZP5HRH_DpLcJfM6C_8Sql9JIi0foSNY93Os1kMmgOA_rVamJMfs4hO",
+    "CLIENT_SECRET" : "39043BBCD7E9E2354DC65F47C226B0EB0E42C9B644A361BC2940D2B74FB8A55D",
+    "CALLBACK_URI" : "http://localhost:3000/oauth/_callback",
+    "INSTANCE_URL" : "https://cunning-hawk-itutd-dev-ed.my.salesforce.com/"
+}
